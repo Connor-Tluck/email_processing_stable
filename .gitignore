@@ -1,0 +1,10 @@
+# Ignore node_modules
+node_modules/
+
+# Ignore build outputs
+.next/
+dist/
+
+# Ignore logs and cache
+*.log
+.DS_Store
