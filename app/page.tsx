@@ -86,7 +86,7 @@ export default function Home() {
       <AddEnvironmentVariables
         names={["OPENAI_API_KEY", "GOOGLE_API_KEY", "EMAIL_API_KEY"]}
         values={{
-          OPENAI_API_KEY: "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",
+          OPENAI_API_KEY: "your_key",
           GOOGLE_API_KEY: "your-google-api-key",
           EMAIL_API_KEY: "your-email-api-key"
         }}
