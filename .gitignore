@@ -1,13 +1,16 @@
-# Ignore Next.js build outputs
+# Node modules and environment files
+node_modules/
+.env
+
+# Next.js build outputs
 .next/
 out/
 dist/
 
-# Ignore node_modules
-node_modules/
-
-# Ignore logs
+# Logs
 *.log
+npm-debug.log*
 
-# Ignore system files
+# System files
 .DS_Store
+Thumbs.db
